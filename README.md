@@ -6,5 +6,5 @@
 * use any code editor (ex: eclipse, Intellij idea, visual studio code)
 
 
-## The structure of project:
-### every example has a package, so you can select any package, inside every package there is a Main class, to run the package
+## The structure of project: 
+every example has a package, so you can select any package, inside every package there is a Main class, to run the package
