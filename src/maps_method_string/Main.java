@@ -1,6 +1,5 @@
-package stream_with_string;
+package maps_method_string;
 
-import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
@@ -15,7 +14,7 @@ public class Main {
         String s = "3344873";
 
         // define a var to hold the sum of the numbers
-        // AtomicInteger, because I used synchronised operation ( using stream)
+        // AtomicInteger, because I used asynchronised operation (using stream)
         AtomicInteger sum = new AtomicInteger();
 
         /*
